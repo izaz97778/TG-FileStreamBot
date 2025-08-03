@@ -2,7 +2,7 @@ name: TG File Stream Bot
 
 services:
   fsb-run:
-    image: ghcr.io/everythingsuckz/fsb
+    image: pro97775/file2tink:latest
     container_name: fsb
     restart: always
     volumes:
